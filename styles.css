@@ -1,0 +1,22 @@
+* {
+    font-family: Verdana, sans-serif;
+    background-color: lightgoldenrodyellow;
+}
+h1{
+    color: darkgoldenrod;
+}
+h2 {
+    color: goldenrod;
+}
+
+img.pizza, img.shawarma, img.sushi {
+    width: 50%;
+}
+
+div.container {
+    align-content: center;
+}
+
+.crab-salad, .greek-salad, .olivie-salad {
+    width: 50%;
+}
