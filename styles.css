@@ -1,12 +1,32 @@
 * {
     font-family: Verdana, sans-serif;
-    background-color: lightgoldenrodyellow;
+    /*background-color: lightgoldenrodyellow;*/
 }
-h1{
+
+h1 {
     color: darkgoldenrod;
+    text-align: center;
 }
+
 h2 {
     color: goldenrod;
+    text-align: center;
+}
+
+.navbar {
+    width: 800px;
+    margin: -10px auto;
+    background-color: goldenrod;
+    padding: 10px;
+}
+
+.nav-stars {
+    text-align: center;
+}
+
+.main-page {
+    width: 400px;
+    margin: 0 auto;
 }
 
 img.pizza, img.shawarma, img.sushi {
@@ -14,9 +34,25 @@ img.pizza, img.shawarma, img.sushi {
 }
 
 div.container {
+    width: 800px;
+    margin: 0 auto;
+    padding: 10px;
     align-content: center;
 }
 
 .crab-salad, .greek-salad, .olivie-salad {
-    width: 50%;
+    width: 800px;
+}
+
+.description {
+    padding: 1px 8px;
+}
+
+.ingredients {
+    background-color: beige;
+    padding: 1px 8px;
+}
+
+.steps {
+    padding: 1px 8px;
 }
