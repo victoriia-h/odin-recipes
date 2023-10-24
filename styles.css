@@ -29,8 +29,8 @@ h2 {
     margin: 0 auto;
 }
 
-img.pizza, img.shawarma, img.sushi {
-    width: 50%;
+.pizza, .shawarma, .sushi {
+    width: 800px;
 }
 
 div.container {
